@@ -1,0 +1,27 @@
+{
+  "767431f4598dc66d": {
+    "c": [
+      "gt-next facilita la traducción de tus componentes de React y cadenas de texto. Envuelve tu contenido en un componente <T> y se traduce automáticamente."
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "c47b9f633923b61e": {
+    "c": "¡Bienvenido a esta aplicación internacionalizada de Next.js!",
+    "i": 1,
+    "t": "h1"
+  },
+  "e05e7153af703b3f": {
+    "c": "Este ejemplo demuestra cómo usar gt-next para internacionalizar una aplicación de Next.js. Prueba a cambiar de idioma usando el menú desplegable de arriba.",
+    "i": 1,
+    "t": "p"
+  },
+  "f95e02b3d05ceaab": [
+    {
+      "i": 1,
+      "k": "_gt_value_1",
+      "v": "v"
+    },
+    " Documentación"
+  ]
+}
